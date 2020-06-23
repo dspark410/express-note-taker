@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "uuid": "^8.1.0"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
